@@ -1,11 +1,11 @@
 # Previsão de Vendas de Sorvete com XGBoost
 
-## 🌟 Objetivo
+##  Objetivo
 Desenvolver um modelo de machine learning que permita prever a quantidade de vendas de sorvete com base na temperatura do dia. O objetivo é otimizar a produção, evitar desperdícios e garantir estoque suficiente, antecipando a demanda conforme variações de temperatura.
 
 ---
 
-## 🔹 Etapas do Projeto
+##  Etapas do Projeto
 
 ### 1. Geração de Dados
 
@@ -66,21 +66,21 @@ previsao = modelo.predict(entrada)
 
 ---
 
-## 🚀 Resultados Esperados
+##  Resultados Esperados
 - Prever a quantidade de sorvetes que serão vendidos com base na temperatura do dia.
 - Melhorar a eficiência da produção, reduzindo perdas e evitando falta de estoque.
 - Automatizar a tomada de decisões baseando-se em dados climáticos reais.
 
 ---
 
-## 📅 Melhorias Futuras
+##  Melhorias Futuras
 - Integração com APIs meteorológicas para obter a temperatura em tempo real.
 - Adição de variáveis como dia da semana, eventos, e sazonalidade para aumentar a precisão.
 - Salvamento automático das previsões em banco de dados ou relatórios.
 
 ---
 
-## 🚜 Conclusão
+##  Conclusão
 Esse projeto demonstra como dados climáticos simples podem ser utilizados para prever demanda de produtos sensíveis à temperatura (como sorvetes) e, com isso, otimizar a cadeia de produção e minimizar desperdícios.
 
 
