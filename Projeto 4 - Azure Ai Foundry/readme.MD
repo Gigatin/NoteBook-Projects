@@ -41,3 +41,6 @@ Com o novo grupo de pesquisa criado volto para a aba de  "adicionar os dados" e 
 
 Confirmo e crio o Indice de valor
 ![Image](https://github.com/user-attachments/assets/93add048-10ff-4251-b2fe-81425427e018)
+
+
+o Azure AI Foundry agora está carregando os artigos e transformando eles em vetor
