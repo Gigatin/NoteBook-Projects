@@ -42,4 +42,4 @@ Confirmei e criei o **índice de valor**:
 
 Agora, o Azure AI Foundry está carregando os artigos e transformando-os em vetores:
 
-![Image](https://github.com/user-attachments/assets/a391c684-5453-4bd7-8de6-06e61af32045)
+![Image](https://github.com/user-attachments/assets/2c92dd75-299e-41db-b84e-16776fa53150)
