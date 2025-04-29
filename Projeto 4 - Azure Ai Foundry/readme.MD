@@ -43,3 +43,11 @@ Confirmei e criei o **índice de valor**:
 Agora, o Azure AI Foundry está carregando os artigos e transformando-os em vetores:
 
 ![Image](https://github.com/user-attachments/assets/2c92dd75-299e-41db-b84e-16776fa53150)
+
+
+O Vetor foi criado
+
+
+Com a criação do Vetor confirmada é possivel fazer perguntas ao chat com embasamento nos textos enviados pra treinamento
+
+
