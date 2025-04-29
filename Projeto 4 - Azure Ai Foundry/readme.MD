@@ -28,11 +28,16 @@ Dentro do playground fui em "Adicionar seus dados" e cliquei em "Adicionar uma n
 
 
 
-Seleciono upload e colo 3 artigos como referencia:
 
+
+Seleciono upload e colo 3 artigos como referencia:
+![Image](https://github.com/user-attachments/assets/853a2405-7a8f-4c34-bd98-48001b38a59f)
 
 Após isso vou criar um novo recurso da Pesquisa da IA do Azure 
+![Image](https://github.com/user-attachments/assets/cf6cb565-a486-4796-aa23-54d9f56bcd58)
 
 Com o novo grupo de pesquisa criado volto para a aba de  "adicionar os dados" e seleciono o serviço de pesquisa de IA do Azure, prosseguindo com o projeto
+![Image](https://github.com/user-attachments/assets/cf63cd73-ea95-45fc-b185-655562695bda)
 
 Confirmo e crio o Indice de valor
+![Image](https://github.com/user-attachments/assets/93add048-10ff-4251-b2fe-81425427e018)
