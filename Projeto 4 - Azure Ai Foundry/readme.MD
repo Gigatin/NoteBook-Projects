@@ -34,6 +34,7 @@ Criei um novo recurso de **Pesquisa de IA do Azure**:
 ![Image](https://github.com/user-attachments/assets/cf6cb565-a486-4796-aa23-54d9f56bcd58)
 
 Com o novo grupo de pesquisa criado, retornei à aba **"Adicionar os dados"**, selecionei o serviço de Pesquisa de IA do Azure e prossegui com a integração:
+
 ![Image](https://github.com/user-attachments/assets/cf63cd73-ea95-45fc-b185-655562695bda)
 
 Confirmei e criei o **índice de valor**:
