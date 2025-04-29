@@ -46,6 +46,7 @@ Agora, o Azure AI Foundry está carregando os artigos e transformando-os em veto
 
 
 O Vetor foi criado
+
 ![Image](https://github.com/user-attachments/assets/937413f3-6026-4624-b92f-f385ed829715)
 
 Com a criação do Vetor confirmada é possivel fazer perguntas ao chat com embasamento nos textos enviados pra treinamento
