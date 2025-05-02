@@ -6,19 +6,12 @@ Bem-vindo ao meu repositório de Ciência de Dados! Aqui você encontrará uma c
 
 ## Conteúdo
 
-- **Notebooks Exploratórios:** Revele insights a partir de diversos conjuntos de dados.
+- **Notebooks Exploratórios**
 - **Implementações de Algoritmos de Machine Learning:** Classificação, regressão, clustering e mais.
-- **Projetos de Visualização de Dados:** Comunique informações complexas de forma eficaz.
+- **Projetos de Visualização de Dados**
 - **Técnicas de Pré-processamento de Dados:** Engenharia de recursos e validação de modelos.
 - **Experimentos com Bibliotecas Populares:** pandas, scikit-learn, Matplotlib, Seaborn e muito mais.
 
-## Como Contribuir
-
-Sinta-se à vontade para explorar, aprender e colaborar! Se você tem sugestões, perguntas ou gostaria de contribuir em algum projeto específico, siga as etapas abaixo:
-
-1. 🍴 Fork este repositório.
-2. 👩‍💻 Faça as alterações desejadas.
-3. 📝 Crie um pull request descrevendo suas contribuições.
 
 A Ciência de Dados é uma jornada emocionante, e estou ansioso para compartilhar essa jornada com você.
 
